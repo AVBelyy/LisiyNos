@@ -1,0 +1,7 @@
+*.pyc
+*.in
+*.out
+*.tmp
+*.swp
+*.exe
+*.o
