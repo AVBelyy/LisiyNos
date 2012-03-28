@@ -12,7 +12,7 @@ int main() {
 	unsigned long l, M;
 	bool B[100];
 	unsigned long w[100];
-	int coords[o];
+	int coords[1000000];
 	for(x = 0; x < 100; x++) {
 		B[x] = false;
 		w[x] = Inf;
